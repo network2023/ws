@@ -1,7 +1,7 @@
-# Script V-Code (V1-Websocket)
+# Script comingsoon (V1-Websocket)
  Welcome Dear😊
 
- <h2 align="center">AutoScript VPN By V-Code <img src="https://img.shields.io/badge/Version-1.0-blue.svg"></h2>
+ <h2 align="center">AutoScript VPN By comingsoon <img src="https://img.shields.io/badge/Version-1.0-blue.svg"></h2>
 
 
 <h2 align="center"> Supported Linux Distribution</h2>
@@ -53,9 +53,9 @@ systemctl restart wg-quick@wg0
 
 ## Info :
 
- ## Script for Sell Only. Contact owner on Telegram @Virtual_NW <a href="https://t.me/Virtual_NW" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a>
+ ## Script for Sell Only. Contact owner on Telegram @hazzuan1984 <a href="https://t.me/hazzuan1984" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a>
 
- ## For Buy Script : Contact Telegram @Virtual_NW <a href="https://t.me/Virtual_NW" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a>
+ ## For Buy Script : Contact Telegram @hazzuan1984 <a href="https://t.me/hazzuan1984" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a>
 
  ## Main Menu
  
@@ -117,15 +117,15 @@ systemctl restart wg-quick@wg0
 
 ## Telegram
 
-[V-Code](https://t.me/Virtual_NW)
+[comingsoon](https://t.me/hazzuan1984)
 
-[Group V-Code](https://t.me/+HtRm-s0MLBgxODZl)
+[Group UI network](https://t.me/+6Qg4JmaERwM0YTk1)
 
-[Channel V-Code](https://t.me/Virtual_NW_Channel)
+[Channel UI network](https://t.me/hazzuan1984)
 
 ## Credit :
 
-*   V-Code
+*   comingsoon
 
 *   Project X
 
