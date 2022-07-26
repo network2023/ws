@@ -50,7 +50,7 @@ echo -e "\e[0;32m|               \e[1;35mI HOPE YOU HAPPY                \e[0;32
 echo -e "\e[0;32m|_______________________________________________\e[0;32m|\e[0m"
 echo -e "\e[0;32m|                   \e[1;36mTHANKS TO                   \e[0;32m|\e[0m"
 echo -e "\e[0;32m|_______________________________________________\e[0;32m|\e[0m"
-echo -e "\e[0;32m|                \e[1;35mVirtual Network                \e[0;32m|\e[0m"
+echo -e "\e[0;32m|                \e[1;35mHazzuan Hashim                \e[0;32m|\e[0m"
 echo -e "\e[0;32m|                   \e[1;35mALLAH SWT                   \e[0;32m|\e[0m"
 echo -e "\e[0;32m|                   \e[1;35mMy Family                   \e[0;32m|\e[0m"
 echo -e "\e[0;32m|                    \e[1;35mGoogle                     \e[0;32m|\e[0m"
