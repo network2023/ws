@@ -4,15 +4,6 @@
  <h2 align="center">AutoScript VPN By comingsoon <img src="https://img.shields.io/badge/Version-1.0-blue.svg"></h2>
 
 
-<h2 align="center"> Supported Linux Distribution</h2>
-<p align="center"><img src="https://d33wubrfki0l68.cloudfront.net/5911c43be3b1da526ed609e9c55783d9d0f6b066/9858b/assets/img/debian-ubuntu-hover.png"></p>
-<p align="center"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=debian&label=Debian%2010&message=Buster&color=blue"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=debian&label=Debian%2011&message=Bullseye&color=blue"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=ubuntu&label=Ubuntu%2018&message=18.04 LTS&color=blue"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=ubuntu&label=Ubuntu%2020&message=20.04 LTS&color=blue"></p>
-
-<p align="center"><img src="https://img.shields.io/badge/Service-OpenSSH-success.svg"> <img src="https://img.shields.io/badge/Service-Dropbear-success.svg">  <img src="https://img.shields.io/badge/Service-Websocket-success.svg"> <img src="https://img.shields.io/badge/Service-BadVPN-success.svg">  <img src="https://img.shields.io/badge/Service-Stunnel-success.svg">  <img src="https://img.shields.io/badge/Service-OpenVPN-success.svg">  <img src="https://img.shields.io/badge/Service-Squid3-success.svg">  <img   src="https://img.shields.io/badge/Service-Webmin-success.svg">  <img src="https://img.shields.io/badge/Service-OHP-success.svg">  <img
-src="https://img.shields.io/badge/Service-Xray-success.svg">  <img src= "https://img.shields.io/badge/Service-SSR-success.svg">  <img src="https://img.shields.io/badge/Service-Trojan Go-success.svg"> <img src="https://img.shields.io/badge/Service-Trojan-success.svg"> <img src="https://img.shields.io/badge/Service-WireGuard-success.svg"> <img src="https://img.shields.io/badge/Service-Shadowsocks-success.svg">
-
-## Commands : <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=powershell&label=Shell&message=Bash%20Script&color=lightgray">
-
 ## Update & Upgrade First Your VPS for Debian 10 & 11
 
   ```html
@@ -57,17 +48,6 @@ systemctl restart wg-quick@wg0
 
  ## For Buy Script : Contact Telegram @hazzuan1984 <a href="https://t.me/hazzuan1984" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a>
 
- ## Main Menu
- 
-![IMG_20220321_093514](https://user-images.githubusercontent.com/96321013/159195579-67df9a75-b4cc-45eb-9cf5-433965f069ed.jpg)
-
-  ## Status Running
- 
-![IMG_20220321_093550](https://user-images.githubusercontent.com/96321013/159195645-0e972ccf-6fe0-41bf-8339-cdaa64f3041e.jpg)
-
-  ## Service & Port
- 
-![IMG_20220321_093533](https://user-images.githubusercontent.com/96321013/159195702-f76319a9-1c77-42ad-af9e-ea8f3cbdf293.jpg)
 
 ## Description :
 
